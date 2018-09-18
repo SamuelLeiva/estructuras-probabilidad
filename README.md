@@ -1,1 +1,1 @@
-# estructuras_probabilidad
+# estructuras-probabilidad
